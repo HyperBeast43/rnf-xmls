@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icecube_saint.png">
+	<!-- Created with Aseprite 1.3-rc4-x64 -->
+	<!-- Made by Silky -->
+	<SubTexture name="icechewer_saint_idle_0" x="0" y="0" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_left_0" x="128" y="0" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_left_1" x="256" y="0" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_left_2" x="256" y="0" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_left_3" x="256" y="0" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_down_0" x="0" y="160" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_down_1" x="128" y="160" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_down_2" x="128" y="160" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_down_3" x="128" y="160" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_up_0" x="256" y="160" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_up_1" x="0" y="320" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_up_2" x="0" y="320" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_up_3" x="0" y="320" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_right_0" x="128" y="320" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_right_1" x="256" y="320" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_right_2" x="256" y="320" width="128" height="160"/>
+	<SubTexture name="icechewer_saint_right_3" x="256" y="320" width="128" height="160"/>
+</TextureAtlas>

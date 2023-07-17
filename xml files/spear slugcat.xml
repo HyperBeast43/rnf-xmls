@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spear slugcat.png">
+	<!-- Created with Aseprite 1.3-rc4-x64 -->
+	<!-- Made by Silky -->
+	<SubTexture name="spear_slugcat_idle_0" x="0" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_idle_1" x="256" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_idle_2" x="512" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_idle_3" x="768" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_idle_4" x="1024" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_left_0" x="1280" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_left_1" x="1536" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_left_2" x="1792" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_down_0" x="2048" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_down_1" x="2304" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_down_2" x="2560" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_up_0" x="2816" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_up_1" x="3072" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_up_2" x="3328" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_right_0" x="3584" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_right_1" x="3840" y="0" width="256" height="256"/>
+	<SubTexture name="spear_slugcat_right_2" x="4096" y="0" width="256" height="256"/>
+</TextureAtlas>

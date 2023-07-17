@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spearmaster_datingsim.png">
+	<!-- Created with Aseprite 1.3-rc4-x64 -->
+	<!-- Made by Silky -->
+	<SubTexture name="spearmaster_datingsim_idle_0" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_1" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_2" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_3" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_4" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_5" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_6" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_7" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_8" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_9" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_10" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_11" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_12" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_13" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_14" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_15" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_16" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_17" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_18" x="0" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_19" x="213" y="0" width="213" height="377"/>
+	<SubTexture name="spearmaster_datingsim_idle_20" x="213" y="0" width="213" height="377"/>
+</TextureAtlas>

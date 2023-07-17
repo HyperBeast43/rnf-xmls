@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inv_datingsim.png">
+	<!-- Created with Aseprite 1.3-rc4-x64 -->
+	<!-- Made by Silky -->
+	<SubTexture name="inv_datingsim_idle_0" x="1339" y="1590" width="270" height="383"/>
+	<SubTexture name="inv_datingsim_idle_1" x="1339" y="1590" width="270" height="383"/>
+	<SubTexture name="inv_datingsim_idle_2" x="1339" y="1590" width="270" height="383"/>
+	<SubTexture name="inv_datingsim_idle_3" x="1339" y="1590" width="270" height="383"/>
+	<SubTexture name="inv_datingsim_idle_4" x="1339" y="1590" width="270" height="383"/>
+	<SubTexture name="inv_datingsim_idle_5" x="1339" y="1590" width="270" height="383"/>
+	<SubTexture name="inv_datingsim_left_0" x="1093" y="399" width="349" height="400"/>
+	<SubTexture name="inv_datingsim_left_1" x="1401" y="1190" width="318" height="400"/>
+	<SubTexture name="inv_datingsim_left_2" x="324" y="1177" width="319" height="400"/>
+	<SubTexture name="inv_datingsim_left_3" x="689" y="801" width="321" height="400"/>
+	<SubTexture name="inv_datingsim_left_4" x="0" y="796" width="324" height="400"/>
+	<SubTexture name="inv_datingsim_left_5" x="1077" y="799" width="324" height="400"/>
+	<SubTexture name="inv_datingsim_left_6" x="1442" y="790" width="325" height="400"/>
+	<SubTexture name="inv_datingsim_down_0" x="1010" y="1199" width="385" height="309"/>
+	<SubTexture name="inv_datingsim_down_1" x="978" y="1508" width="361" height="325"/>
+	<SubTexture name="inv_datingsim_down_2" x="643" y="1201" width="335" height="353"/>
+	<SubTexture name="inv_datingsim_down_3" x="0" y="1196" width="321" height="359"/>
+	<SubTexture name="inv_datingsim_down_4" x="643" y="1554" width="311" height="365"/>
+	<SubTexture name="inv_datingsim_down_5" x="0" y="1555" width="303" height="371"/>
+	<SubTexture name="inv_datingsim_up_0" x="303" y="1577" width="270" height="384"/>
+	<SubTexture name="inv_datingsim_up_1" x="303" y="1577" width="270" height="384"/>
+	<SubTexture name="inv_datingsim_up_2" x="303" y="1577" width="270" height="384"/>
+	<SubTexture name="inv_datingsim_up_3" x="303" y="1577" width="270" height="384"/>
+	<SubTexture name="inv_datingsim_up_4" x="303" y="1577" width="270" height="384"/>
+	<SubTexture name="inv_datingsim_up_5" x="303" y="1577" width="270" height="384"/>
+	<SubTexture name="inv_datingsim_right_0" x="728" y="401" width="349" height="400"/>
+	<SubTexture name="inv_datingsim_right_1" x="1456" y="0" width="352" height="406"/>
+	<SubTexture name="inv_datingsim_right_2" x="0" y="0" width="361" height="411"/>
+	<SubTexture name="inv_datingsim_right_3" x="349" y="790" width="340" height="387"/>
+	<SubTexture name="inv_datingsim_right_4" x="1093" y="0" width="363" height="399"/>
+	<SubTexture name="inv_datingsim_right_5" x="728" y="0" width="365" height="401"/>
+	<SubTexture name="inv_datingsim_right_6" x="361" y="0" width="367" height="402"/>
+	<SubTexture name="inv_datingsim_right_7" x="361" y="402" width="352" height="388"/>
+	<SubTexture name="inv_datingsim_right_8" x="0" y="411" width="349" height="385"/>
+	<SubTexture name="inv_datingsim_right_9" x="1442" y="406" width="350" height="384"/>
+</TextureAtlas>
