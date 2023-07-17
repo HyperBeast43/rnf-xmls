@@ -2,21 +2,21 @@
 <TextureAtlas imagePath="hunter.png">
 	<!-- Created with Aseprite 1.3-rc4-x64 -->
 	<!-- Made by Silky -->
-	<SubTexture name="red_hunter_anim_idle_0" x="208" y="112" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_idle_1" x="304" y="112" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_idle_2" x="0" y="224" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_idle_3" x="208" y="224" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_idle_4" x="208" y="224" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_idle_5" x="208" y="224" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_idle_6" x="208" y="224" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_left_0" x="0" y="0" width="112" height="112"/>
-	<SubTexture name="red_hunter_anim_left_1" x="304" y="224" width="96" height="112"/>
-	<SubTexture name="red_hunter_anim_down_0" x="112" y="0" width="112" height="112"/>
-	<SubTexture name="red_hunter_anim_down_1" x="224" y="0" width="112" height="112"/>
-	<SubTexture name="red_hunter_anim_down_2" x="96" y="240" width="112" height="96"/>
-	<SubTexture name="red_hunter_anim_down_3" x="0" y="336" width="112" height="96"/>
-	<SubTexture name="red_hunter_anim_up_0" x="112" y="336" width="80" height="128"/>
-	<SubTexture name="red_hunter_anim_up_1" x="112" y="112" width="96" height="128"/>
-	<SubTexture name="red_hunter_anim_right_0" x="336" y="0" width="112" height="112"/>
-	<SubTexture name="red_hunter_anim_right_1" x="0" y="112" width="112" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0000" x="208" y="112" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0001" x="304" y="112" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0002" x="0" y="224" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0003" x="208" y="224" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0004" x="208" y="224" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0005" x="208" y="224" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_idle0006" x="208" y="224" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_left0000" x="0" y="0" width="112" height="112"/>
+	<SubTexture name="red_hunter_anim_left0001" x="304" y="224" width="96" height="112"/>
+	<SubTexture name="red_hunter_anim_down0000" x="112" y="0" width="112" height="112"/>
+	<SubTexture name="red_hunter_anim_down0001" x="224" y="0" width="112" height="112"/>
+	<SubTexture name="red_hunter_anim_down0002" x="96" y="240" width="112" height="96"/>
+	<SubTexture name="red_hunter_anim_down0003" x="0" y="336" width="112" height="96"/>
+	<SubTexture name="red_hunter_anim_up0000" x="112" y="336" width="80" height="128"/>
+	<SubTexture name="red_hunter_anim_up0001" x="112" y="112" width="96" height="128"/>
+	<SubTexture name="red_hunter_anim_right0000" x="336" y="0" width="112" height="112"/>
+	<SubTexture name="red_hunter_anim_right0001" x="0" y="112" width="112" height="112"/>
 </TextureAtlas>
